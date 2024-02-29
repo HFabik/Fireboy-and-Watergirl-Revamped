@@ -1,0 +1,5 @@
+The goal of the game is to get to the end square (the multicoloured square).
+Press w to jump, d to open doors, f to fire bullets, and r to reload.
+The top bar is your magazine with remaining bullets.
+The bottom bar is your health.
+Good luck!
